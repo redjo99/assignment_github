@@ -11,7 +11,7 @@
 
 - 코드 컨벤션
 1. 커밋 규칙
-> ??
+> docs : README에 커밋 규칙 추가
 
 2. 브랜치명 규칙
 > feature/introduce-(이름)
